@@ -1,0 +1,4 @@
+train: ./food/train
+val: ./food/validation
+nc: 1 
+names: ['food']

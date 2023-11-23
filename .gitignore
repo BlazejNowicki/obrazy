@@ -1,3 +1,7 @@
+lab4/datasets/
+lab4/metadata/
+lab4/runs/
+
 *.bundle.*
 lib/
 node_modules/
